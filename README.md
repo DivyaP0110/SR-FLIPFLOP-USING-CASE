@@ -75,6 +75,7 @@ module sr_flipflop(q, q_bar, s, r, clk, reset);
 
   assign q_bar = ~q;
 endmodule
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 
@@ -83,7 +84,7 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 ![WhatsApp Image 2024-05-06 at 21 28 36_2b1013a8](https://github.com/DivyaP0110/SR-FLIPFLOP-USING-CASE/assets/144870891/9d1f25f9-fffb-4cf1-a9fb-b8b451eec1d3)
-```
+
 
 **RESULTS**
 
